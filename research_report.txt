@@ -64,11 +64,6 @@ To address the identified weaknesses and test the novel hypotheses, the followin
 
 ### 6. Sources
 
-1.  [S1] Unknown (summary)
-2.  [S2] Unknown (summary)
-3.  [S3] Unknown (summary)
-4.  [S4] Unknown (summary)
-5.  [S5] Unknown (summary)
-6.  `uploaded_documents/2024.acl-long.331.pdf`
-7.  `uploaded_documents/2311.08152v2.pdf`
-8.  `uploaded_documents/2309.13007v3.pdf`
+1.  uploaded_documents/2024.acl-long.331.pdf`
+2.  `uploaded_documents/2311.08152v2.pdf`
+3.  `uploaded_documents/2309.13007v3.pdf`
